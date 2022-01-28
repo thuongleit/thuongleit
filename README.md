@@ -6,11 +6,9 @@ Recently, I work mostly with [Kotlin](https://kotlinlang.org), [Java](https://ww
 
 I love learning new stuff and doing things that make positive impacts around me. 
 
-I value diversity, equality, and freedom.
+I value diversity, equality, and freedom. I believe in the power of compound interest, and I try to be a little better version of myself every day.
 
-I am an open-minded person, and I try to be a little better version of myself every day.
-
-Outside the technology world, I enjoy my time with my family and friends. I like listening to podcasts, cooking, reading books, and exploring innovative ideas.
+Outside the technology world, I enjoy quality time with my family and friends, listening to audiobooks, and looking for investment opportunities.
 
 # Get in touch
 - 📧 Email [@thuongle.it](mailto:thuongle.it@gmail.com)
